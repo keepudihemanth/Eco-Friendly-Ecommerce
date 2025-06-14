@@ -1,4 +1,4 @@
-# Amazon-HackOn-Prototype
+# Eco-Friendly-Ecommerce
 
 Theme: Sustainable Shopping Experience
 
